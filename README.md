@@ -66,8 +66,8 @@ Example output showing successful MoE routing, expert utilization, and stable tr
 
 ### Installation
 ```bash
-git clone https://github.com/Thisishivam/GPT-Transformer-Stage3
-cd GPT-Transformer-Stage3
+git clone https://github.com/Thisishivam/GPT-Transformer-Stage4
+cd GPT-Transformer-Stage4
 pip install -r requirements.txt
 ````
 
